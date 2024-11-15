@@ -47,7 +47,7 @@ This guide will help you set up and run the Healthcare Service App on your local
 5. **Additional Information**
 
    - Ensure your database server is running and accessible with the provided `DB_URL`.
-   - The application will be live on the port you specified in the `.env` file (default is 3000 if not specified).
+   - The application will be live on the port you specified in the `.env` file .
 
 You can now use and modify the Healthcare Service App as per your needs. Happy coding!
 
